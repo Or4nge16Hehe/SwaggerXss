@@ -1,0 +1,9 @@
+{
+    "url": "https://github.com/Or4nge16Hehe/SwaggerXss/test.yaml",
+    "urls": [
+        {
+            "url": "https://github.com/Or4nge16Hehe/SwaggerXss/test.yaml",
+            "name": "Foo"
+        }
+    ]
+}
